@@ -7,7 +7,7 @@ Modern electronic calculators vary from cheap, give-away, credit-card-sized mode
 |sNo| Toppic | sub Topic | Link |
 |-|-|-|-|
 |1|Introduction |Introduction part 1|[Explanation video link](https://youtu.be/BX6_YBPr7Jw?si=omR6veePFhh9h5fF)
-|-|-|-|-|
+
 
 ## Features
   -user friendly
