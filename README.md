@@ -17,14 +17,20 @@ Modern electronic calculators vary from cheap, give-away, credit-card-sized mode
   -**History**: Keeps a record of recent calculations for easy reference.
   -**User-Friendly Interface**: Simple command-line interface that guides users through operations.
   -**Cross-Platform**: Works on Windows, macOS, and Linux.
+
+
 ## Installation
   **Clone the repository**:
    ```bash
    git clone https://github.com/GeekAnsh001/python-calculator.git
+
+
 ## How to use
   -Enter start to use the calculator
   -Enter Exit  to exit from the calculator
   -Enter the number for operations you want to perform
+
+
 ## contributiong
   -Contribution are welcome ! if you have any ideas for improvement ,open an issue or create a pull request
 |Author|Name|Git profile|
