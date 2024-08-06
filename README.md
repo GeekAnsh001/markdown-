@@ -33,9 +33,8 @@ Modern electronic calculators vary from cheap, give-away, credit-card-sized mode
 
 ## contributiong
   -Contribution are welcome ! if you have any ideas for improvement ,open an issue or create a pull request
-|Author|Name|Git profile|
-|-|-|-|
-|Name|Amritansh khatri|[https://github.com/GeekAnsh001]
-|-|-|-|
+
+## Author
+  -Amritansh khatri
 
 
